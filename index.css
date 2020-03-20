@@ -330,56 +330,60 @@ font-size: 0px; }
 font-size: 0px; }
   .tile.tile-8 .tile-inner {
     color: #f9f6f2;
-    background: url(beetlejuice.jpg); }
+    background: url(beetlejuice.jpg);
+font-size: 0px;}
   .tile.tile-16 .tile-inner {
     color: #f9f6f2;
-    background: url(w.jpeg); }
+    background: url(w.jpeg);
+font-size: 0px;}
   .tile.tile-32 .tile-inner {
     color: #f9f6f2;
-    background: url('the prom.jpg'); }
+    background: url('the prom.jpg'); 
+font-size: 0px;}
   .tile.tile-64 .tile-inner {
     color: #f9f6f2;
-    background: url(newsies.jpeg); }
+    background: url(newsies.jpeg);
+font-size: 0px;}
   .tile.tile-128 .tile-inner {
     color: #f9f6f2;
     background: url('dear evan hansen.jpeg');
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
-    font-size: 45px; }
+    font-size: 0px; }
     @media screen and (max-width: 520px) {
       .tile.tile-128 .tile-inner {
-        font-size: 25px; } }
+        font-size: 0px; } }
   .tile.tile-256 .tile-inner {
     color: #f9f6f2;
     background: url(hamilton.jpeg);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.31746), inset 0 0 0 1px rgba(255, 255, 255, 0.19048);
-    font-size: 45px; }
+    font-size: 0px; }
     @media screen and (max-width: 520px) {
       .tile.tile-256 .tile-inner {
-        font-size: 25px; } }
+        font-size: 0px; } }
   .tile.tile-512 .tile-inner {
     color: #f9f6f2;
     background: url('come from awway.jpeg');
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.39683), inset 0 0 0 1px rgba(255, 255, 255, 0.2381);
-    font-size: 45px; }
+    font-size: 0px; }
     @media screen and (max-width: 520px) {
       .tile.tile-512 .tile-inner {
-        font-size: 25px; } }
+        font-size: 0px; } }
   .tile.tile-1024 .tile-inner {
     color: #f9f6f2;
     background: url('les mis.jpeg');
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.47619), inset 0 0 0 1px rgba(255, 255, 255, 0.28571);
-    font-size: 35px; }
+    font-size: 0px; }
     @media screen and (max-width: 520px) {
       .tile.tile-1024 .tile-inner {
-        font-size: 15px; } }
+        font-size: 0px; } }
   .tile.tile-2048 .tile-inner {
     color: #f9f6f2;
     background: url(hadestown.jpeg);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
-    font-size: 35px; }
+    font-size: 0px; }
     @media screen and (max-width: 520px) {
       .tile.tile-2048 .tile-inner {
-        font-size: 15px; } }
+        font-size: 0px; } }
   .tile.tile-super .tile-inner {
     color: #f9f6f2;
     background: #3c3a32;
