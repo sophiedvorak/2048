@@ -336,7 +336,7 @@ font-size: 0px; }
     background: url(w.jpeg); }
   .tile.tile-32 .tile-inner {
     color: #f9f6f2;
-    background: url(the prom.jpg); }
+    background: url('the prom.jpg'); }
   .tile.tile-64 .tile-inner {
     color: #f9f6f2;
     background: url(newsies.jpeg); }
