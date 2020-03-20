@@ -303,7 +303,7 @@ Grid.prototype.fromState = function(a) {
 Grid.prototype.randomAvailableCell = function() {
     var a = this.availableCells();
     if (a.length)
-        return a[Math.floor(Math.random() * a.length)]
+        return a[Math.floor(Math.random() * a.length * 0.2)]
 }
 ;
 Grid.prototype.availableCells = function() {
@@ -487,7 +487,7 @@ GameManager.prototype.addStartTiles = function() {
 ;
 GameManager.prototype.addRandomTile = function() {
     if (this.grid.cellsAvailable()) {
-        var a = 0.9 > Math.random() ? 2 : 4
+        var a = 0.9 > Math.random() ? 2 : 2
           , a = new Tile(this.grid.randomAvailableCell(),a);
         this.grid.insertTile(a)
     }
