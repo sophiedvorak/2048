@@ -1239,10 +1239,10 @@ footer {
     line-height: 98px; }
 
   .tile-128 .tile-inner, .tile-256 .tile-inner, .tile-512 .tile-inner {
-    font-size: 0px !important; }
+    font-size: 43px !important; }
 
   .tile-1024 .tile-inner, .tile-2048 .tile-inner {
-    font-size: 0px !important; }
+    font-size: 43px !important; }
 
   .game-intro {
     font-size: 17px; }
