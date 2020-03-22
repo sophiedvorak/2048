@@ -1235,7 +1235,7 @@ footer {
     transform: translate(328px, 328px); }
 
   .tile .tile-inner {
-    font-size: 0px;
+    font-size: 10px;
     line-height: 98px; }
 
   .tile-128 .tile-inner, .tile-256 .tile-inner, .tile-512 .tile-inner {
