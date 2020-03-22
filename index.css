@@ -4,7 +4,9 @@ html, body {
   padding: 0;
   background: #faf8ef;
   color: #776e65;
-  font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
+  
+  
+  -family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
   font-size: 18px; }
 
 body {
@@ -1230,17 +1232,17 @@ footer {
   .tile.tile-position-4-4 {
     -webkit-transform: translate(328px, 328px);
     -moz-transform: translate(328px, 328px);
-    transform: translate(328px, 328px); }
+    transform: translate(0px, 0px); }
 
   .tile .tile-inner {
-    font-size: 53px;
+    font-size: 0px;
     line-height: 98px; }
 
   .tile-128 .tile-inner, .tile-256 .tile-inner, .tile-512 .tile-inner {
-    font-size: 43px !important; }
+    font-size: 0px !important; }
 
   .tile-1024 .tile-inner, .tile-2048 .tile-inner {
-    font-size: 33px !important; }
+    font-size: 0px !important; }
 
   .game-intro {
     font-size: 17px; }
