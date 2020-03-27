@@ -10,7 +10,7 @@ html, body {
   font-size: 18px; }
 
 body {
-  margin: 80px 0; }
+  margin: 80px 10; }
 
 .heading:after {
   content: "";
@@ -105,7 +105,7 @@ h1.title {
 p {
   margin-top: 0;
   margin-bottom: 10px;
-  line-height: 1.65; }
+  line-height: 1.5; }
 
 a {
   color: #776e65;
